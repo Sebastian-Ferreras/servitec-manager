@@ -1,0 +1,21 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Entorno y secretos
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+
+# Editores
+.idea/
+.vscode/
