@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ServiTec.Application/ServiTec.Application.csproj" />
+  <Project Path="ServiTec.Backend/ServiTec.Backend.csproj" />
+  <Project Path="ServiTec.Domain/ServiTec.Domain.csproj" />
+  <Project Path="ServiTec.Infrastructure/ServiTec.Infrastructure.csproj" />
+</Solution>
