@@ -2,9 +2,9 @@
 Qué hace este PR y por qué.
 
 ## Etapa del flujo
-- [ ] feature → dev (backend)
-- [ ] feature → dev (frontend)
-- [ ] dev → qa
+- [ ] feature → develop (backend)
+- [ ] feature → develop (frontend)
+- [ ] develop → qa
 - [ ] qa → main
 
 ## Cambios principales

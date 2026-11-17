@@ -26,7 +26,7 @@ Los nombres van en minúsculas, con guiones y **sin anidar** (`feature/tickets-i
 ### Ciclo de una feature
 
 ```bash
-git checkout dev
+git checkout develop
 git pull
 git checkout -b feature/tickets-ingreso
 
@@ -68,7 +68,7 @@ Cada persona ejecuta lo siguiente en su rama al empezar el día y antes de abrir
 
 ```bash
 git fetch origin
-git merge origin/dev
+git merge origin/develop
 ```
 
 `fetch` solo descarga los cambios; `merge` los integra en tu rama.
