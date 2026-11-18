@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using ServiTec.Application.Interfaces;
+using ServiTec.Application.Interfaces.Repositories;
 using ServiTec.Domain.Entities;
 
 namespace ServiTec.Infrastructure.Persistence.Repositories;
