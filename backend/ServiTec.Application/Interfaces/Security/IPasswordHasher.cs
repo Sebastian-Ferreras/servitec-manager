@@ -1,4 +1,4 @@
-namespace ServiTec.Application.Interfaces;
+namespace ServiTec.Application.Interfaces.Security;
 
 public interface IPasswordHasher
 {

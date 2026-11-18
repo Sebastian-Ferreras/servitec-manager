@@ -2,6 +2,7 @@ using ServiTec.Application.DTOs.Common.Auth;
 using ServiTec.Application.DTOs.Request.Auth;
 using ServiTec.Application.DTOs.Response.Auth;
 using ServiTec.Application.Interfaces;
+using ServiTec.Application.Interfaces.Security;
 using ServiTec.Domain.Exceptions;
 
 namespace ServiTec.Application.Services;

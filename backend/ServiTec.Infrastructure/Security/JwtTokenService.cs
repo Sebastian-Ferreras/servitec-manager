@@ -3,7 +3,7 @@ using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.JsonWebTokens;
 using Microsoft.IdentityModel.Tokens;
 using ServiTec.Application.DTOs.Common.Auth;
-using ServiTec.Application.Interfaces;
+using ServiTec.Application.Interfaces.Security;
 using ServiTec.Domain.Entities;
 
 namespace ServiTec.Infrastructure.Security;
