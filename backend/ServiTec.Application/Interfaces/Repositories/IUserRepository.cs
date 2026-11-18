@@ -1,6 +1,6 @@
 using ServiTec.Domain.Entities;
 
-namespace ServiTec.Application.Interfaces;
+namespace ServiTec.Application.Interfaces.Repositories;
 
 public interface IUserRepository
 {

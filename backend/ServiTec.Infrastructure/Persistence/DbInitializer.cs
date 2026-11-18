@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using ServiTec.Application.Interfaces;
+using ServiTec.Application.Interfaces.Security;
 using ServiTec.Domain.Entities;
 using ServiTec.Domain.Enums;
 
