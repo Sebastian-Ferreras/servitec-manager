@@ -1,4 +1,4 @@
-using ServiTec.Application.Interfaces;
+using ServiTec.Application.Interfaces.Security;
 
 namespace ServiTec.Infrastructure.Security;
 
