@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using ServiTec.Application.Interfaces;
+using ServiTec.Application.Interfaces.Security;
 using ServiTec.Infrastructure.Persistence;
 using ServiTec.Infrastructure.Security;
 
