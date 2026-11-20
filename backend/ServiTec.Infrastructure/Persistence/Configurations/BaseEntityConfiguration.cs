@@ -6,7 +6,7 @@ namespace ServiTec.Infrastructure.Persistence.Configurations;
 internal static class BaseEntityConfiguration
 {
     public const int EnumMaxLength = 30;
-    public const int LongTextMaxLength = 2000;
+    public const int LongTextMaxLength = TextLimits.LongTextMaxLength;
 
     public static void ConfigureBase<T>(this EntityTypeBuilder<T> builder) where T : BaseEntity
     {
